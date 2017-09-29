@@ -6,6 +6,11 @@ if (name === "susan") {
   console.log ("I thought the name was susan!")
 }
 
+if (height === "70") {
+  console.log ("the height is correct")
+} else {
+  console.log ("I thought her height was 70!")
+}
 
 // Don't worry about this
 module.exports = { name, height
