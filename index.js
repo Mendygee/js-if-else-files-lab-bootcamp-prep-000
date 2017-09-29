@@ -1,9 +1,9 @@
-var name = "susan"
+var name = "Susan"
 var height = "70"
-if (name === "susan") {
+if (name === "Susan") {
   console.log ("the name is correct")
 } else {
-  console.log ("I thought the name was susan!")
+  console.log ("I thought the name was Susan!")
 }
 
 if (height === "70") {
